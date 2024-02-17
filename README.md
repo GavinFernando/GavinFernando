@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)](https://rishavchanda.io)
 <h1 align="center">Hello there👋, I am Gavin Fernando</h1>
 <h3 align="center">Currently a Software Engineering Undergraduate.</h3>
 
