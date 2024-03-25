@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **gavinfernando172001@gmail.com**
 
-- Buy me a coffee: (https://www.buymeacoffee.com/gavinfernando)
+- Buy me a coffee: https://www.buymeacoffee.com/gavinfernando
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
