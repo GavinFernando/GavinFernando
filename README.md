@@ -1,20 +1,16 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)](https://rishavchanda.io)
 <h1 align="center">Hello there👋, I am Gavin Fernando</h1>
-<h3 align="center">Currently a Software Engineering Undergraduate.</h3>
+<h3 align="center"> Masters Cyber Security Student at Universität des Saarlandes.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gavinfernando&label=Profile%20views&color=0e75b6&style=flat" alt="gavinfernando" /> </p>
 
-- 🔭 I’m currently working on **PlayersChain (Blockchain based Musical Instrument management webapp)**
+- 🔭 I’m currently learning **Cyber Security**
 
-- 🌱 I’m currently learning **Solidity & ReactJS**
+- 🌱 I’m currently learning **Mobile Security, Security testing, Human Computer interaction and Security**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GavinFernando](https://github.com/GavinFernando)
 
-- 💬 Ask me about **Solidity & blockchain development.**
-
 - 📫 How to reach me **gavinfernando172001@gmail.com**
-
-- Buy me a coffee: https://www.buymeacoffee.com/gavinfernando
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
