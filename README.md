@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gavinfernando&label=Profile%20views&color=0e75b6&style=flat" alt="gavinfernando" /> </p>
 
-- 🔭 I’m currently learning **Cyber Security**
+- 🔭 I’m currently enrolled in **Msc. Cyber Security**
 
 - 🌱 I’m currently learning **Mobile Security, Security testing, Human Computer interaction and Security**
 
